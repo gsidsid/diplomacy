@@ -60,7 +60,7 @@ regions (for shading ownership):
 
 PNG files for fleet units, army units, supply centers, & flags are in `/icons`– center them on their respective points in the SVG using the ID's.
 
-`diplomacy.json` contains all valid army + fleet movements from any space to another. Note that there is a minor discrepancy with the map for `BUL:NC`, which is drawn as `North Coast` but usually `East Coast`.
+`diplomacy.json` contains all valid army + fleet movements from any space to another. Note that there is a minor discrepancy with the map for `BUL:NC`, which is drawn as `North Coast` but usually `East Coast`. If the `abbreviations` property is used well this can be easily dealt with.
 
 Add a transparent layer on top of the map in the app for order markers and interactivity.
 
