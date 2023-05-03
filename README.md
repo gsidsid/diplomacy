@@ -1,5 +1,5 @@
 # Diplomacy
-Resources for when I actually build this out– useful assets for an online version of the diplomacy board game.
+Resources for when I actually build this out– useful assets for an online version of the diplomacy board game with a visual order entry UI on the map.
 
 ---
 
